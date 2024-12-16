@@ -1,0 +1,62 @@
+{
+  "bot-account": {
+    "username": "PetirXZeus15",
+    "password": "12345678",
+    "type": "microsoft"
+  },
+
+  "server": {
+    "ip": "daptesting.aternos.me",
+    "port": 37044,
+    "version": "1.19.3"
+  },
+
+  "position": {
+    "enabled": true,
+    "x": 154,
+    "y": 64,
+    "z": 431
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false,
+      "jump": true,
+      "rotate": false,
+
+      "hit": {
+        "enabled": false,
+        "delay": 1000,
+        "attack-mobs": false
+      },
+
+      "circle-walk": {
+        "enabled": false,
+        "radius": 2
+      }
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 120,
+
+      "messages": [
+        "I'm a regular player ",
+        "Sigma sigma boy  ",
+        "Hallo coy ",
+        "github MuhammadDavid "
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": false,
+    "auto-reconnect-delay": 5000
+  }
+}
